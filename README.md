@@ -1,2 +1,2 @@
 # eda-movies-ds
-Repositório de uma análise exploratória de uma amostra de dados das notas de alguns filmes
+Análise exploratória de uma amostra de dados das notas de 5.000 filmes.
